@@ -1,0 +1,6 @@
+{
+  "name": "مكتب سمارت نيتورك لخدمات الشبكات",
+  "description": "برنامج محاسبي متكامل لإدارة شؤون موظفي وعمال المؤسسة ومسيرات الرواتب والسلف والخصومات والمكافآت بدقة متناهية ودعم كامل للغة العربية والطباعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
